@@ -1,6 +1,6 @@
 # 📊 Telecom X: Análisis de Evasión de Clientes (Churn)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/luisoroz1/9-TelecomX_LATAM_Challenge/blob/principal/TelecomX_LATAM.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/luisoroz1/9-TelecomX_LATAM_Challenge/blob/main/TelecomX_LATAM.ipynb)
 
 ![Status](https://img.shields.io/badge/Status-V1--Completa-green)
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python&logoColor=white)
